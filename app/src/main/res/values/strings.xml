@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SmileTaskNF</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="encourage_comment_1">Lets see those pearly whites</string>
+    <string name="encourage_comment_2">Say cheese</string>
+    <string name="tease_comment_1">Is that the best you can do</string>
+    <string name="praise_comment_1">Well done </string>
+    <string name="no_camera_permission">The App can\'t access your camera</string>
+    <string name="no_storage_permission">The App can\'t access your camera</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="isOperational_snackbar_title">Some google components are being downloaded</string>
+    <string name="isOperational_snackbar_action">BACK</string>
+    <string name="emptyMosaicText">Click on the smiley button below and make some amazing smiles</string>
+</resources>
